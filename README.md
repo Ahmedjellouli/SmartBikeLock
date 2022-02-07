@@ -8,6 +8,8 @@ in this code we will try to Recognize priority of the e-bike using **OpenCV** an
 
 after all make sure that you have already install the folowing libraries:
 
+- Matlab Simulink
+- Virtual Serial Port software
 - opencv
 ```
 pip install opencv-python
